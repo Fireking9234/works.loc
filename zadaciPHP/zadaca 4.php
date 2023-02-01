@@ -17,29 +17,6 @@
         <link rel="stylesheet" media="screen, print" href="css/fa-brands.css">
         <link rel="stylesheet" media="screen, print" href="css/fa-regular.css">
     </head>
-
-    <?php 
-    $posts =[
-    [
-    	"title" => "Первый заголовок статьи",
-    	"description" => "Описание для статьи, чтобы рассказать о чем будет в статье в кратце. Здесь абсолютно комфортно вы можете генерировать тексты-«рыбы» для решения задач в области макетирования.
-            Мы будем постепенно расширять функциональность нашего сайта и ждем с нетерпением ваших отзывов.Присылайте нам ваши рыбные тексты! Мы будем рады!"
-    ],
-
-
-
-        [
-    	"title" => "Второй заголовок для статьи",
-    	"description" => "Описание для статьи, чтобы рассказать о чем будет в статье в кратце. Здесь абсолютно комфортно вы можете генерировать тексты-«рыбы» для решения задач в области макетирования.
-
-            Мы будем постепенно расширять функциональность нашего сайта и ждем с нетерпением ваших отзывов.Присылайте нам ваши рыбные тексты! Мы будем рады!"
-    ],
-
-
-
-	];
-
-    ?>
     <body class="mod-bg-1 mod-nav-link ">
         <main id="js-page-content" role="main" class="page-content">
             <div class="col-md-6">
@@ -53,20 +30,54 @@
                             <button class="btn btn-panel waves-effect waves-themed" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
                         </div>
                     </div>
+                    <?php
+                    $elements = [
+                        [
+                            "title" => "Мои задачи",
+                            "value" => "7 / 10",
+                            "background" => "bg-fusion-400",
+                            "progress_bar" => "65"
+                        ],
+                        [
+                            "title" => "Емкость диска",
+                            "value" => "440 TB",
+                            "background" => "bg-success-500",
+                            "progress_bar" => "34"
+                        ],
+                        [
+                            "title" => "Пройдено уроков",
+                            "value" => "77%",
+                            "background" => "bg-info-400",
+                            "progress_bar" => "77"
+                        ],
+                        [
+                            "title" => "Осталось дней",
+                            "value" => "2 дня",
+                            "background" => "bg-primary-300",
+                            "progress_bar" => "84"
+                        ],
+
+
+                    ];
+
+
+
+
+                    ?>
                     <div class="panel-container show">
                         <div class="panel-content">
-                            <div class="fs-lg fw-300 p-5 bg-white border-faded rounded mb-g">
-                            	<?php foreach($posts as $post): ?>
-                            <h2><?php echo $post['title'];?></h2>
-                            <p>
-                                <?php echo $post['description'];?>
-                            </p>
-
+                            <?php foreach($elements as $element):?>
+                            <div class="d-flex">
+                                <?php echo $element['title']; ?>
+                                <span class="d-inline-block ml-auto"><?php echo $element['value']; ?></span>
+                            </div>
+                            <div class="progress progress-sm mb-3">
+                                <div class="progress-bar <?php echo $element['background']; ?>" role="progressbar" style="width: <?php echo $element['progress_bar']; ?>%;" aria-valuenow="<?php echo $element['progress_bar']; ?>" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
                         <?php endforeach;?>
                         </div>
-                        </div>
                     </div>
-                </div>
+                </div>      
             </div>
         </main>
         
