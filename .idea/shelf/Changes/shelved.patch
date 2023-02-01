@@ -1,0 +1,466 @@
+Index: zadaciPHP/zadaca 8.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"utf-8\">\r\n    <title>\r\n        Подготовительные задания к курсу\r\n    </title>\r\n    <meta name=\"description\" content=\"Chartist.html\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no, minimal-ui\">\r\n    <link id=\"vendorsbundle\" rel=\"stylesheet\" media=\"screen, print\" href=\"css/vendors.bundle.css\">\r\n    <link id=\"appbundle\" rel=\"stylesheet\" media=\"screen, print\" href=\"css/app.bundle.css\">\r\n    <link id=\"myskin\" rel=\"stylesheet\" media=\"screen, print\" href=\"css/skins/skin-master.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/statistics/chartist/chartist.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/miscellaneous/lightgallery/lightgallery.bundle.css\">\r\n\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/fa-solid.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/fa-brands.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/fa-regular.css\">\r\n</head>\r\n<body class=\"mod-bg-1 mod-nav-link \">\r\n<main id=\"js-page-content\" role=\"main\" class=\"page-content\">\r\n    <div class=\"row\">\r\n        <div class=\"col-xl-12\">\r\n            <div class=\"border-faded bg-faded p-3 mb-g d-flex\">\r\n                <input type=\"text\" id=\"js-filter-contacts\" name=\"filter-contacts\" class=\"form-control shadow-inset-2 form-control-lg\" placeholder=\"Filter contacts\">\r\n                <div class=\"btn-group btn-group-lg btn-group-toggle hidden-lg-down ml-3\" data-toggle=\"buttons\">\r\n                    <label class=\"btn btn-default active waves-effect waves-themed\">\r\n                        <input type=\"radio\" name=\"contactview\" id=\"grid\" checked=\"\" value=\"grid\"><i class=\"fas fa-table\"></i>\r\n                    </label>\r\n                    <label class=\"btn btn-default waves-effect waves-themed\">\r\n                        <input type=\"radio\" name=\"contactview\" id=\"table\" value=\"table\"><i class=\"fas fa-th-list\"></i>\r\n                    </label>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n    <div class=\"row js-list-filter\" id=\"js-contacts\">\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_1\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"oliver kopyov\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-success mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-b.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Oliver Kopyov\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">IT Director, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_1 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 317-456-2564</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> oliver.kopyov@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 15 Charist St, Detroit, MI, 48212, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_2\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"sesha gray\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-warning mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-c.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Sesha Gray\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">Project Manager, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_2 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 313-461-1347</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> sesha.gray@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 134 Hamtrammac, Detroit, MI, 48314, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_3\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"dr john cook\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-danger mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-e.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Dr. John Cook PhD\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">Human Resources, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_3 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 313-779-1347</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> john.cook@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 55 Smyth Rd, Detroit, MI, 48341, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_4\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"jim ketty\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-success mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-k.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Jim Ketty\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">Staff Orgnizer, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_4 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 313-779-3314</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> jim.ketty@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 134 Tasy Rd, Detroit, MI, 48212, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_5\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"aaron tellus\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-success mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-g.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Dr. John Oliver\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">Oncologist, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_5 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 313-779-8134</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> john.oliver@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 134 Gallery St, Detroit, MI, 46214, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_6\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"sarah mcbrook\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-success mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-h.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Sarah McBrook\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">Xray Division, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_6 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 313-779-7613</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> sarah.mcbrook@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 13 Jamie Rd, Detroit, MI, 48313, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_7\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"jimmy fellan\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-success mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-i.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Jimmy Fellan\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">Accounting, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_7 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 313-779-4314</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> jimmy.fallan@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 55 Smyth Rd, Detroit, MI, 48341, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n        <div class=\"col-xl-4\">\r\n            <div id=\"c_8\" class=\"card border shadow-0 mb-g shadow-sm-hover\" data-filter-tags=\"arica grace\">\r\n                <div class=\"card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top\">\r\n                    <div class=\"d-flex flex-row align-items-center\">\r\n                                <span class=\"status status-success mr-3\">\r\n                                    <span class=\"rounded-circle profile-image d-block \" style=\"background-image:url('img/demo/avatars/avatar-j.png'); background-size: cover;\"></span>\r\n                                </span>\r\n                        <div class=\"info-card-text flex-1\">\r\n                            <a href=\"javascript:void(0);\" class=\"fs-xl text-truncate text-truncate-lg text-info\" data-toggle=\"dropdown\" aria-expanded=\"false\">\r\n                                Arica Grace\r\n                                <i class=\"fal fa-angle-down d-inline-block ml-1 fs-md\"></i>\r\n                            </a>\r\n                            <div class=\"dropdown-menu\">\r\n                                <a class=\"dropdown-item\" href=\"#\">Send Email</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Create Appointment</a>\r\n                                <a class=\"dropdown-item\" href=\"#\">Block User</a>\r\n                            </div>\r\n                            <span class=\"text-truncate text-truncate-xl\">Accounting, Gotbootstrap Inc.</span>\r\n                        </div>\r\n                        <button class=\"js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed\" data-toggle=\"collapse\" data-target=\"#c_8 > .card-body + .card-body\" aria-expanded=\"false\">\r\n                            <span class=\"collapsed-hidden\">+</span>\r\n                            <span class=\"collapsed-reveal\">-</span>\r\n                        </button>\r\n                    </div>\r\n                </div>\r\n                <div class=\"card-body p-0 collapse show\">\r\n                    <div class=\"p-3\">\r\n                        <a href=\"tel:+13174562564\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mobile-alt text-muted mr-2\"></i> +1 313-779-3347</a>\r\n                        <a href=\"mailto:oliver.kopyov@smartadminwebapp.com\" class=\"mt-1 d-block fs-sm fw-400 text-dark\">\r\n                            <i class=\"fas fa-mouse-pointer text-muted mr-2\"></i> arica.grace@smartadminwebapp.com</a>\r\n                        <address class=\"fs-sm fw-400 mt-4 text-muted\">\r\n                            <i class=\"fas fa-map-pin mr-2\"></i> 798 Smyth Rd, Detroit, MI, 48341, USA</address>\r\n                        <div class=\"d-flex flex-row\">\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#3b5998\">\r\n                                <i class=\"fab fa-facebook-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#38A1F3\">\r\n                                <i class=\"fab fa-twitter-square\"></i>\r\n                            </a>\r\n                            <a href=\"javascript:void(0);\" class=\"mr-2 fs-xxl\" style=\"color:#0077B5\">\r\n                                <i class=\"fab fa-linkedin\"></i>\r\n                            </a>\r\n                        </div>\r\n                    </div>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</main>\r\n\r\n\r\n<script src=\"js/vendors.bundle.js\"></script>\r\n<script src=\"js/app.bundle.js\"></script>\r\n<script src=\"js/miscellaneous/lightgallery/lightgallery.bundle.js\"></script>\r\n<script>\r\n    // default list filter\r\n    initApp.listFilter($('#js_default_list'), $('#js_default_list_filter'));\r\n    // custom response message\r\n    initApp.listFilter($('#js-list-msg'), $('#js-list-msg-filter'));\r\n    //accordion filter\r\n    initApp.listFilter($('#js_list_accordion'), $('#js_list_accordion_filter'));\r\n    // nested list filter\r\n    initApp.listFilter($('#js_nested_list'), $('#js_nested_list_filter'));\r\n    //init navigation\r\n    initApp.buildNavigation($('#js_nested_list'));\r\n\r\n    $(document).ready(function()\r\n    {\r\n\r\n\r\n        var $initScope = $('#js-lightgallery');\r\n        if ($initScope.length)\r\n        {\r\n            $initScope.justifiedGallery(\r\n                {\r\n                    border: -1,\r\n                    rowHeight: 150,\r\n                    margins: 8,\r\n                    waitThumbnailsLoad: true,\r\n                    randomize: false,\r\n                }).on('jg.complete', function()\r\n            {\r\n                $initScope.lightGallery(\r\n                    {\r\n                        thumbnail: true,\r\n                        animateThumb: true,\r\n                        showThumbByDefault: true,\r\n                    });\r\n            });\r\n        };\r\n        $initScope.on('onAfterOpen.lg', function(event)\r\n        {\r\n            $('body').addClass(\"overflow-hidden\");\r\n        });\r\n        $initScope.on('onCloseAfter.lg', function(event)\r\n        {\r\n            $('body').removeClass(\"overflow-hidden\");\r\n        });\r\n\r\n        $('input[type=radio][name=contactview]').change(function()\r\n        {\r\n            if (this.value == 'grid')\r\n            {\r\n                $('#js-contacts .card').removeClassPrefix('mb-').addClass('mb-g');\r\n                $('#js-contacts .col-xl-12').removeClassPrefix('col-xl-').addClass('col-xl-4');\r\n                $('#js-contacts .js-expand-btn').addClass('d-none');\r\n                $('#js-contacts .card-body + .card-body').addClass('show');\r\n\r\n            }\r\n            else if (this.value == 'table')\r\n            {\r\n                $('#js-contacts .card').removeClassPrefix('mb-').addClass('mb-1');\r\n                $('#js-contacts .col-xl-4').removeClassPrefix('col-xl-').addClass('col-xl-12');\r\n                $('#js-contacts .js-expand-btn').removeClass('d-none');\r\n                $('#js-contacts .card-body + .card-body').removeClass('show');\r\n            }\r\n\r\n        });\r\n\r\n        //initialize filter\r\n        initApp.listFilter($('#js-contacts'), $('#js-filter-contacts'));\r\n    });\r\n\r\n\r\n\r\n</script>\r\n</body>\r\n</html>\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/zadaciPHP/zadaca 8.php b/zadaciPHP/zadaca 8.php
+--- a/zadaciPHP/zadaca 8.php	(revision bb831f1c264704313dacad1cbb935032ef1606bd)
++++ b/zadaciPHP/zadaca 8.php	(date 1675256237512)
+@@ -36,16 +36,79 @@
+         </div>
+     </div>
+     <div class="row js-list-filter" id="js-contacts">
++        <?php
++        $users = [
++            [
++                "id" => 1,
++                "username" => "Oliver Kopyov",
++                "image" => "img/demo/avatars/avatar-b.png",
++                "status" => "success",
++                "profession" => "IT Director, Gotbootstrap Inc.",
++                "tel" => "+1 317-456-2564",
++                "email" => "oliver.kopyov@smartadminwebapp.com",
++                "address" => "15 Charist St, Detroit, MI, 48212, USA",
++                "tags" => "oliver kopyov",
++                "facebook" => "facebook.com",
++                "twitter" => "twitter.com",
++                "linkedin" => "linkedin.com"
++            ],
++            [
++                "id" => 2,
++                "username" => "Sesha Gray",
++                "image" => "img/demo/avatars/avatar-c.png",
++                "status" => "warning",
++                "profession" => "Project Manager, Gotbootstrap Inc.",
++                "tel" => "+1 313-461-1347",
++                "email" => "sesha.gray@smartadminwebapp.com",
++                "address" => "134 Hamtrammac, Detroit, MI, 48314, USA",
++                "tags" => "sesha gray",
++                "facebook" => "facebook.com",
++                "twitter" => "twitter.com",
++                "linkedin" => "linkedin.com"
++            ],
++            [
++                "id" => 3,
++                "username" => "Dr. John Cook PhD",
++                "image" => "img/demo/avatars/avatar-e.png",
++                "status" => "danger",
++                "profession" => "Human Resources, Gotbootstrap Inc.",
++                "tel" => "+1 313-779-1347",
++                "email" => "john.cook@smartadminwebapp.com",
++                "address" => "55 Smyth Rd, Detroit, MI, 48341, USA",
++                "tags" => "dr john cook",
++                "facebook" => "facebook.com",
++                "twitter" => "twitter.com",
++                "linkedin" => "linkedin.com"
++            ],
++            [
++                "id" => 4,
++                "username" => "Jim Ketty",
++                "image" => "img/demo/avatars/avatar-k.png",
++                "status" => "success",
++                "profession" => "Staff Orgnizer, Gotbootstrap Inc.",
++                "tel" => "+1 313-779-3314",
++                "email" => "jim.ketty@smartadminwebapp.com",
++                "address" => "134 Tasy Rd, Detroit, MI, 48212, USA",
++                "tags" => "jim ketty",
++                "facebook" => "facebook.com",
++                "twitter" => "twitter.com",
++                "linkedin" => "linkedin.com"
++            ],
++        ]
++        ?>
++        <?php foreach($users as $user):?>
+         <div class="col-xl-4">
+-            <div id="c_1" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="oliver kopyov">
++            <div id="c_<?php echo $user['id']?>" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="<?php echo $user['tags']?>">
+                 <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+                     <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-success mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-b.png'); background-size: cover;"></span>
++                                <span class="status status-<?php echo $user['status']?> mr-3">
++                                    <span class="rounded-circle profile-image d-block " style="background-image:url('<?php echo $user['image']?>'); background-size: cover;"></span>
+                                 </span>
++
++
+                         <div class="info-card-text flex-1">
+                             <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Oliver Kopyov
++                                <?php echo $user['username']?>
+                                 <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+                             </a>
+                             <div class="dropdown-menu">
+@@ -53,7 +116,7 @@
+                                 <a class="dropdown-item" href="#">Create Appointment</a>
+                                 <a class="dropdown-item" href="#">Block User</a>
+                             </div>
+-                            <span class="text-truncate text-truncate-xl">IT Director, Gotbootstrap Inc.</span>
++                            <span class="text-truncate text-truncate-xl"><?php echo $user['profession']?></span>
+                         </div>
+                         <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_1 > .card-body + .card-body" aria-expanded="false">
+                             <span class="collapsed-hidden">+</span>
+@@ -64,155 +127,11 @@
+                 <div class="card-body p-0 collapse show">
+                     <div class="p-3">
+                         <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 317-456-2564</a>
+-                        <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> oliver.kopyov@smartadminwebapp.com</a>
+-                        <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 15 Charist St, Detroit, MI, 48212, USA</address>
+-                        <div class="d-flex flex-row">
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+-                                <i class="fab fa-facebook-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#38A1F3">
+-                                <i class="fab fa-twitter-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#0077B5">
+-                                <i class="fab fa-linkedin"></i>
+-                            </a>
+-                        </div>
+-                    </div>
+-                </div>
+-            </div>
+-        </div>
+-        <div class="col-xl-4">
+-            <div id="c_2" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="sesha gray">
+-                <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+-                    <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-warning mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-c.png'); background-size: cover;"></span>
+-                                </span>
+-                        <div class="info-card-text flex-1">
+-                            <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Sesha Gray
+-                                <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+-                            </a>
+-                            <div class="dropdown-menu">
+-                                <a class="dropdown-item" href="#">Send Email</a>
+-                                <a class="dropdown-item" href="#">Create Appointment</a>
+-                                <a class="dropdown-item" href="#">Block User</a>
+-                            </div>
+-                            <span class="text-truncate text-truncate-xl">Project Manager, Gotbootstrap Inc.</span>
+-                        </div>
+-                        <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_2 > .card-body + .card-body" aria-expanded="false">
+-                            <span class="collapsed-hidden">+</span>
+-                            <span class="collapsed-reveal">-</span>
+-                        </button>
+-                    </div>
+-                </div>
+-                <div class="card-body p-0 collapse show">
+-                    <div class="p-3">
+-                        <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 313-461-1347</a>
+-                        <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> sesha.gray@smartadminwebapp.com</a>
+-                        <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 134 Hamtrammac, Detroit, MI, 48314, USA</address>
+-                        <div class="d-flex flex-row">
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+-                                <i class="fab fa-facebook-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#38A1F3">
+-                                <i class="fab fa-twitter-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#0077B5">
+-                                <i class="fab fa-linkedin"></i>
+-                            </a>
+-                        </div>
+-                    </div>
+-                </div>
+-            </div>
+-        </div>
+-        <div class="col-xl-4">
+-            <div id="c_3" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="dr john cook">
+-                <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+-                    <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-danger mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-e.png'); background-size: cover;"></span>
+-                                </span>
+-                        <div class="info-card-text flex-1">
+-                            <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Dr. John Cook PhD
+-                                <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+-                            </a>
+-                            <div class="dropdown-menu">
+-                                <a class="dropdown-item" href="#">Send Email</a>
+-                                <a class="dropdown-item" href="#">Create Appointment</a>
+-                                <a class="dropdown-item" href="#">Block User</a>
+-                            </div>
+-                            <span class="text-truncate text-truncate-xl">Human Resources, Gotbootstrap Inc.</span>
+-                        </div>
+-                        <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_3 > .card-body + .card-body" aria-expanded="false">
+-                            <span class="collapsed-hidden">+</span>
+-                            <span class="collapsed-reveal">-</span>
+-                        </button>
+-                    </div>
+-                </div>
+-                <div class="card-body p-0 collapse show">
+-                    <div class="p-3">
+-                        <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 313-779-1347</a>
+-                        <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> john.cook@smartadminwebapp.com</a>
+-                        <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 55 Smyth Rd, Detroit, MI, 48341, USA</address>
+-                        <div class="d-flex flex-row">
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+-                                <i class="fab fa-facebook-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#38A1F3">
+-                                <i class="fab fa-twitter-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#0077B5">
+-                                <i class="fab fa-linkedin"></i>
+-                            </a>
+-                        </div>
+-                    </div>
+-                </div>
+-            </div>
+-        </div>
+-        <div class="col-xl-4">
+-            <div id="c_4" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="jim ketty">
+-                <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+-                    <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-success mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-k.png'); background-size: cover;"></span>
+-                                </span>
+-                        <div class="info-card-text flex-1">
+-                            <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Jim Ketty
+-                                <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+-                            </a>
+-                            <div class="dropdown-menu">
+-                                <a class="dropdown-item" href="#">Send Email</a>
+-                                <a class="dropdown-item" href="#">Create Appointment</a>
+-                                <a class="dropdown-item" href="#">Block User</a>
+-                            </div>
+-                            <span class="text-truncate text-truncate-xl">Staff Orgnizer, Gotbootstrap Inc.</span>
+-                        </div>
+-                        <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_4 > .card-body + .card-body" aria-expanded="false">
+-                            <span class="collapsed-hidden">+</span>
+-                            <span class="collapsed-reveal">-</span>
+-                        </button>
+-                    </div>
+-                </div>
+-                <div class="card-body p-0 collapse show">
+-                    <div class="p-3">
+-                        <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 313-779-3314</a>
++                            <i class="fas fa-mobile-alt text-muted mr-2"></i><?php echo $user['tel']?></a>
+                         <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> jim.ketty@smartadminwebapp.com</a>
++                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> <?php echo $user['email']?></a>
+                         <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 134 Tasy Rd, Detroit, MI, 48212, USA</address>
++                            <i class="fas fa-map-pin mr-2"></i><?php echo $user['address']?></address>
+                         <div class="d-flex flex-row">
+                             <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+                                 <i class="fab fa-facebook-square"></i>
+@@ -228,199 +147,10 @@
+                 </div>
+             </div>
+         </div>
+-        <div class="col-xl-4">
+-            <div id="c_5" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="aaron tellus">
+-                <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+-                    <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-success mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-g.png'); background-size: cover;"></span>
+-                                </span>
+-                        <div class="info-card-text flex-1">
+-                            <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Dr. John Oliver
+-                                <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+-                            </a>
+-                            <div class="dropdown-menu">
+-                                <a class="dropdown-item" href="#">Send Email</a>
+-                                <a class="dropdown-item" href="#">Create Appointment</a>
+-                                <a class="dropdown-item" href="#">Block User</a>
+-                            </div>
+-                            <span class="text-truncate text-truncate-xl">Oncologist, Gotbootstrap Inc.</span>
+-                        </div>
+-                        <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_5 > .card-body + .card-body" aria-expanded="false">
+-                            <span class="collapsed-hidden">+</span>
+-                            <span class="collapsed-reveal">-</span>
+-                        </button>
+-                    </div>
+-                </div>
+-                <div class="card-body p-0 collapse show">
+-                    <div class="p-3">
+-                        <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 313-779-8134</a>
+-                        <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> john.oliver@smartadminwebapp.com</a>
+-                        <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 134 Gallery St, Detroit, MI, 46214, USA</address>
+-                        <div class="d-flex flex-row">
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+-                                <i class="fab fa-facebook-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#38A1F3">
+-                                <i class="fab fa-twitter-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#0077B5">
+-                                <i class="fab fa-linkedin"></i>
+-                            </a>
+-                        </div>
+-                    </div>
+-                </div>
+-            </div>
+-        </div>
+-        <div class="col-xl-4">
+-            <div id="c_6" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="sarah mcbrook">
+-                <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+-                    <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-success mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-h.png'); background-size: cover;"></span>
+-                                </span>
+-                        <div class="info-card-text flex-1">
+-                            <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Sarah McBrook
+-                                <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+-                            </a>
+-                            <div class="dropdown-menu">
+-                                <a class="dropdown-item" href="#">Send Email</a>
+-                                <a class="dropdown-item" href="#">Create Appointment</a>
+-                                <a class="dropdown-item" href="#">Block User</a>
+-                            </div>
+-                            <span class="text-truncate text-truncate-xl">Xray Division, Gotbootstrap Inc.</span>
+-                        </div>
+-                        <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_6 > .card-body + .card-body" aria-expanded="false">
+-                            <span class="collapsed-hidden">+</span>
+-                            <span class="collapsed-reveal">-</span>
+-                        </button>
+-                    </div>
+-                </div>
+-                <div class="card-body p-0 collapse show">
+-                    <div class="p-3">
+-                        <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 313-779-7613</a>
+-                        <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> sarah.mcbrook@smartadminwebapp.com</a>
+-                        <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 13 Jamie Rd, Detroit, MI, 48313, USA</address>
+-                        <div class="d-flex flex-row">
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+-                                <i class="fab fa-facebook-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#38A1F3">
+-                                <i class="fab fa-twitter-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#0077B5">
+-                                <i class="fab fa-linkedin"></i>
+-                            </a>
+-                        </div>
+-                    </div>
+-                </div>
+-            </div>
+-        </div>
+-        <div class="col-xl-4">
+-            <div id="c_7" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="jimmy fellan">
+-                <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+-                    <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-success mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-i.png'); background-size: cover;"></span>
+-                                </span>
+-                        <div class="info-card-text flex-1">
+-                            <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Jimmy Fellan
+-                                <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+-                            </a>
+-                            <div class="dropdown-menu">
+-                                <a class="dropdown-item" href="#">Send Email</a>
+-                                <a class="dropdown-item" href="#">Create Appointment</a>
+-                                <a class="dropdown-item" href="#">Block User</a>
+-                            </div>
+-                            <span class="text-truncate text-truncate-xl">Accounting, Gotbootstrap Inc.</span>
+-                        </div>
+-                        <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_7 > .card-body + .card-body" aria-expanded="false">
+-                            <span class="collapsed-hidden">+</span>
+-                            <span class="collapsed-reveal">-</span>
+-                        </button>
+-                    </div>
+-                </div>
+-                <div class="card-body p-0 collapse show">
+-                    <div class="p-3">
+-                        <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 313-779-4314</a>
+-                        <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> jimmy.fallan@smartadminwebapp.com</a>
+-                        <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 55 Smyth Rd, Detroit, MI, 48341, USA</address>
+-                        <div class="d-flex flex-row">
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+-                                <i class="fab fa-facebook-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#38A1F3">
+-                                <i class="fab fa-twitter-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#0077B5">
+-                                <i class="fab fa-linkedin"></i>
+-                            </a>
+-                        </div>
+-                    </div>
+-                </div>
+-            </div>
+-        </div>
+-        <div class="col-xl-4">
+-            <div id="c_8" class="card border shadow-0 mb-g shadow-sm-hover" data-filter-tags="arica grace">
+-                <div class="card-body border-faded border-top-0 border-left-0 border-right-0 rounded-top">
+-                    <div class="d-flex flex-row align-items-center">
+-                                <span class="status status-success mr-3">
+-                                    <span class="rounded-circle profile-image d-block " style="background-image:url('img/demo/avatars/avatar-j.png'); background-size: cover;"></span>
+-                                </span>
+-                        <div class="info-card-text flex-1">
+-                            <a href="javascript:void(0);" class="fs-xl text-truncate text-truncate-lg text-info" data-toggle="dropdown" aria-expanded="false">
+-                                Arica Grace
+-                                <i class="fal fa-angle-down d-inline-block ml-1 fs-md"></i>
+-                            </a>
+-                            <div class="dropdown-menu">
+-                                <a class="dropdown-item" href="#">Send Email</a>
+-                                <a class="dropdown-item" href="#">Create Appointment</a>
+-                                <a class="dropdown-item" href="#">Block User</a>
+-                            </div>
+-                            <span class="text-truncate text-truncate-xl">Accounting, Gotbootstrap Inc.</span>
+-                        </div>
+-                        <button class="js-expand-btn btn btn-sm btn-default d-none waves-effect waves-themed" data-toggle="collapse" data-target="#c_8 > .card-body + .card-body" aria-expanded="false">
+-                            <span class="collapsed-hidden">+</span>
+-                            <span class="collapsed-reveal">-</span>
+-                        </button>
+-                    </div>
+-                </div>
+-                <div class="card-body p-0 collapse show">
+-                    <div class="p-3">
+-                        <a href="tel:+13174562564" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mobile-alt text-muted mr-2"></i> +1 313-779-3347</a>
+-                        <a href="mailto:oliver.kopyov@smartadminwebapp.com" class="mt-1 d-block fs-sm fw-400 text-dark">
+-                            <i class="fas fa-mouse-pointer text-muted mr-2"></i> arica.grace@smartadminwebapp.com</a>
+-                        <address class="fs-sm fw-400 mt-4 text-muted">
+-                            <i class="fas fa-map-pin mr-2"></i> 798 Smyth Rd, Detroit, MI, 48341, USA</address>
+-                        <div class="d-flex flex-row">
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#3b5998">
+-                                <i class="fab fa-facebook-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#38A1F3">
+-                                <i class="fab fa-twitter-square"></i>
+-                            </a>
+-                            <a href="javascript:void(0);" class="mr-2 fs-xxl" style="color:#0077B5">
+-                                <i class="fab fa-linkedin"></i>
+-                            </a>
+-                        </div>
+-                    </div>
+-                </div>
+-            </div>
+-        </div>
+-    </div>
++                    <?php endforeach;?>
++                </div>
++            </div>
++        </div>
+ </main>
+ 
+ 

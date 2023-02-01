@@ -1,0 +1,49 @@
+Index: zadaciPHP/zadaca 9.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"utf-8\">\r\n    <title>\r\n        Подготовительные задания к курсу\r\n    </title>\r\n    <meta name=\"description\" content=\"Chartist.html\">\r\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no, minimal-ui\">\r\n    <link id=\"vendorsbundle\" rel=\"stylesheet\" media=\"screen, print\" href=\"css/vendors.bundle.css\">\r\n    <link id=\"appbundle\" rel=\"stylesheet\" media=\"screen, print\" href=\"css/app.bundle.css\">\r\n    <link id=\"myskin\" rel=\"stylesheet\" media=\"screen, print\" href=\"css/skins/skin-master.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/statistics/chartist/chartist.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/miscellaneous/lightgallery/lightgallery.bundle.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/fa-solid.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/fa-brands.css\">\r\n    <link rel=\"stylesheet\" media=\"screen, print\" href=\"css/fa-regular.css\">\r\n</head>\r\n<body class=\"mod-bg-1 mod-nav-link \">\r\n<main id=\"js-page-content\" role=\"main\" class=\"page-content\">\r\n    <div class=\"col-md-6\">\r\n        <div id=\"panel-1\" class=\"panel\">\r\n            <div class=\"panel-hdr\">\r\n                <h2>\r\n                    Задание\r\n                </h2>\r\n                <div class=\"panel-toolbar\">\r\n                    <button class=\"btn btn-panel waves-effect waves-themed\" data-action=\"panel-collapse\" data-toggle=\"tooltip\" data-offset=\"0,10\" data-original-title=\"Collapse\"></button>\r\n                    <button class=\"btn btn-panel waves-effect waves-themed\" data-action=\"panel-fullscreen\" data-toggle=\"tooltip\" data-offset=\"0,10\" data-original-title=\"Fullscreen\"></button>\r\n                </div>\r\n            </div>\r\n            <div class=\"panel-container show\">\r\n                <div class=\"panel-content\">\r\n                    <ol class=\"breadcrumb page-breadcrumb\">\r\n                        <li class=\"breadcrumb-item\"><a href=\"#\">Главная</a></li>\r\n                        <li class=\"breadcrumb-item\"><a href=\"#\">PHP</a></li>\r\n                        <li class=\"breadcrumb-item active\">Функции</li>\r\n                    </ol>\r\n                </div>\r\n            </div>\r\n        </div>\r\n    </div>\r\n</main>\r\n\r\n\r\n<script src=\"js/vendors.bundle.js\"></script>\r\n<script src=\"js/app.bundle.js\"></script>\r\n<script>\r\n    // default list filter\r\n    initApp.listFilter($('#js_default_list'), $('#js_default_list_filter'));\r\n    // custom response message\r\n    initApp.listFilter($('#js-list-msg'), $('#js-list-msg-filter'));\r\n</script>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/zadaciPHP/zadaca 9.php b/zadaciPHP/zadaca 9.php
+--- a/zadaciPHP/zadaca 9.php	(revision a9042d8279c3e69678921624ef1a82b71cbc4531)
++++ b/zadaciPHP/zadaca 9.php	(date 1675258655074)
+@@ -30,12 +30,35 @@
+                     <button class="btn btn-panel waves-effect waves-themed" data-action="panel-fullscreen" data-toggle="tooltip" data-offset="0,10" data-original-title="Fullscreen"></button>
+                 </div>
+             </div>
++            <?php
++            $links =[
++                [
++                "title" => "Главная",
++                "href" => "#",
++                "is_link" => true
++            ],
++            $links =[
++                "title" => "PHP",
++                "href" => "#",
++                "is_link" => true
++            ],
++            $links =[
++                "title" => "Функции",
++                "href" => "#",
++                "is_link" => false
++            ]
++            ]
++            ?>
+             <div class="panel-container show">
+                 <div class="panel-content">
+                     <ol class="breadcrumb page-breadcrumb">
+-                        <li class="breadcrumb-item"><a href="#">Главная</a></li>
+-                        <li class="breadcrumb-item"><a href="#">PHP</a></li>
+-                        <li class="breadcrumb-item active">Функции</li>
++                        <?php foreach ($links as $link):?>
++                        <?php if ($link['is_link']):?>
++                            <li class="breadcrumb-item"><a href="<?php echo $link['href'];?>"><?php echo $link['title'];?></a></li>
++                            <?php else: ?>
++                            <li class="breadcrumb-item active"><?php echo $link['title'];?></li>
++                        <?php endif;?>
++                        <?php endforeach;?>
+                     </ol>
+                 </div>
+             </div>
