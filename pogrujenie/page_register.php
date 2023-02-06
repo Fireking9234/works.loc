@@ -1,5 +1,6 @@
 <?php
 session_start();
+require "functions.php";
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -62,24 +63,19 @@ session_start();
                             </div>
                             <div class="col-xl-6 ml-auto mr-auto">
                                 <div class="card p-4 rounded-plus bg-faded">
-                                    <?php if(isset($_SESSION["danger"])):?>
-                                        <div class="alert alert-danger text-dark" role="alert">
-                                            <?php echo $_SESSION["danger"];
-                                            unset($_SESSION["danger"]);
-                                            ?>
-                                        </div>
-                                    <?php endif;?>
 
-                                    <form id="js-login" novalidate="" action="">
+                                   <?php display_flash_message("danger");?>
+
+                                    <form novalidate="" action="register.php" method="post">
                                         <div class="form-group">
                                             <label class="form-label" for="emailverify">Email</label>
-                                            <input type="email" id="emailverify" class="form-control" placeholder="Эл. адрес" required>
+                                            <input name="email" type="email" id="emailverify" class="form-control" placeholder="Эл. адрес" required>
                                             <div class="invalid-feedback">Заполните поле.</div>
                                             <div class="help-block">Эл. адрес будет вашим логином при авторизации</div>
                                         </div>
                                         <div class="form-group">
                                             <label class="form-label" for="userpassword">Пароль <br></label>
-                                            <input type="password" id="userpassword" class="form-control" placeholder="" required>
+                                            <input name="password" type="password" id="userpassword" class="form-control" placeholder="" required>
                                             <div class="invalid-feedback">Заполните поле.</div>
                                         </div>
                                        

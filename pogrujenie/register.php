@@ -1,33 +1,22 @@
 <?php
 session_start();
+require "functions.php";
 
-$email = "jahn@exemple.com";
-$password = "secret";
 
-$pdo = new PDO("mysql:host=localhost;dbname=my_project", "root", "");
+$email = $_POST["email"];
+$password = $_POST["password"];
+add_user($email, $password);
 
-$sql = "SELECT * FROM users WHERE email=:email";
+$user = get_user_by_email($email);
 
-$statement = $pdo->prepare($sql);
-$statement->execute(["email"   =>   $email]);
-$user = $statement->fetch(PDO::FETCH_ASSOC);
-
-if (!empty($user)){
-    $_SESSION["danger"] = "Этот эл. адрес уже занят другим пользователем.";
-    header("C:/program files/ospanel/domains/works.loc/pogrujenie/page_register.php");
-    exit;
+if(!empty($user)){
+    set_flach_message("danger", "Этот эл. адрес уже занят другим пользователем.");
+    redirect_to("page_register.php");
 }
+add_user($email, $password);
 
-$sql = "INSERT INTO users (email, password) VALUES (:email, :password)";
+set_flach_message("success", "Регистрация успешна");
+redirect_to("/page_login.php");
 
-$statement = $pdo->prepare($sql);
-$statement->execute([
-    "email" => $email,
-    "password" => password_hash($password, PASSWORD_DEFAULT)
-]);
 
-$_SESSION["success"] = "Регистрация успешна";
-$_SESSION["danger"] = "Этот эл. адрес уже занят другим пользователем.";
-header("C:/program files/ospanel/domains/works.loc/pogrujenie/page_login.php");
-exit;
 
