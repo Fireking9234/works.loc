@@ -5,324 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pogrujenie/create_user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/app.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/datagrid/datatables/datatables.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/fa-brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/fa-duotone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/fa-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/fa-regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/fa-solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/bootstrap-datepicker/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/cropperjs/cropper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/dropzone/dropzone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/ion-rangeslider/ion-rangeslider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/select2/select2.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/formplugins/summernote/summernote.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/json-path-picker/json-path-picker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/fullcalendar/fullcalendar.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/jqvmap/jqvmap.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/lightgallery/fonts/lgd41d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/lightgallery/fonts/lgd641-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/lightgallery/fonts/lgd641-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/lightgallery/fonts/lgd641-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/lightgallery/fonts/lgd641.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/lightgallery/lightgallery.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/miscellaneous/reactions/reactions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/notifications/sweetalert2/sweetalert2.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/notifications/toastr/toastr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/page-invoice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/page-login-alt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/skins/skin-master.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/statistics/c3/c3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/statistics/chartist/chartist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/statistics/chartjs/chartjs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/statistics/dygraph/dygraph.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/theme-demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/css/vendors.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/edit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/backgrounds/bg-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/backgrounds/bg-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/backgrounds/bg-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/backgrounds/clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/card-backgrounds/cover-2-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/card-backgrounds/cover-3-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/authors/josh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/authors/jovanni.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/authors/roberto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/authors/sunny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-admin-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-admin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-i.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-j.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/avatars/avatar-m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/debounce-at_begin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/debounce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/gallery/thumb/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/html5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/laravel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/modes/mode-dark-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/modes/mode-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/modes/mode-default-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/modes/mode-glass-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/modes/mode-light-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/modes/mode-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/mvc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/ng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/peace-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/php.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/position-absolute.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/position-fixed.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/position-sticky.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/profile/article-healthyfood.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/rails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/relax-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/s-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/sea-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/search/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/side-panel-demo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/skins/black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/skins/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/skins/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/skins/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/throttle-no_trailing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/demo/throttle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/favicon/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/svg/pattern-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/ng-thumb-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/ng-thumb-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/ng-thumb-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/ng-thumb-video-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/ng-thumb-video-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/pic-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/pic-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/pic-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/thumbs/pic-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/video-play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/vimeo-play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/img/youtube-play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/app.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/datagrid/datatables/datatables.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/datagrid/datatables/datatables.export.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/dependency/moment/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/bootstrap-datepicker/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/cropperjs/cropper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/dropzone/dropzone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/inputmask/inputmask.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/ion-rangeslider/ion-rangeslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/select2/select2.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/formplugins/summernote/summernote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/json-path-picker/json-path-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/miscellaneous/fullcalendar/fullcalendar.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/miscellaneous/jqvmap/jqvmap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/miscellaneous/lightgallery/lightgallery.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/notifications/sweetalert2/sweetalert2.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/notifications/toastr/toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/c3/c3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/chartist/chartist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/chartjs/chartjs.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/d3/d3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/demo-data/demo-c3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/demo-data/demo-data-dygraph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/dygraph/dygraph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/easypiechart/easypiechart.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/flot/flot.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/peity/peity.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/statistics/sparkline/sparkline.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/js/vendors.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/media.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/media/video/cc.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/media/video/cc.webm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/page_login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/page_profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/page_register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/register.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/security.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/status.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/users.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-brands-400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-brands-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-duotone-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-duotone-900.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-duotone-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-duotone-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-duotone-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-duotone-900d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-light-300.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-light-300.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-light-300.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-light-300.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-light-300.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-light-300d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-regular-400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-regular-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-solid-900.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/fa-solid-900d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/nextgen-icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/nextgen-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/nextgen-iconsd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/webfonts/nextgen-icons-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/webfonts/nextgen-icons-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pogrujenie/webfonts/webfonts/nextgen-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/zadaciPHP/zadaca 10.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pogrujenie/page_login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pogrujenie/page_register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pogrujenie/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/pogrujenie/register.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -338,25 +25,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="2L81jHcOEHTHHxr0Sn8eS8lBEZm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/OSPanel/domains/works.loc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Program Files/OSPanel/domains/works.loc/pogrujenie/page_login.php",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -367,7 +55,8 @@
       <updated>1675238029550</updated>
       <workItem from="1675238031095" duration="2662000" />
       <workItem from="1675248518146" duration="10296000" />
-      <workItem from="1675342760727" duration="3547000" />
+      <workItem from="1675342760727" duration="3574000" />
+      <workItem from="1675673203303" duration="4376000" />
     </task>
     <servers />
   </component>
