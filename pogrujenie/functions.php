@@ -7,6 +7,7 @@ function display_flash_message($name){
 }
 function get_user_by_email($email) {
     $pdo = new PDO("mysql:host=localhost;dbname=my_project", "root", "");
+
     $sql = "SELECT * FROM users WHERE email=:email";
 
     $statement = $pdo->prepare($sql);
@@ -32,4 +33,11 @@ function add_user($email, $password) {
     ]);
     return $pdo->lastInsertId();
 }
+/**Parameters:
+    string - $email
+ *  string - $password
+ * Description: авторизовать пользователя
+ * Return value: boolean
+**/
+function login($email, $password) {};
 ?>
