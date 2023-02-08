@@ -38,7 +38,7 @@ require "functions.php";
         </div>
         <div class="card p-4 border-top-left-radius-0 border-top-right-radius-0">
             <?php if(isset($_SESSION["success"])):?>
-            <div class="alert alert-danger text-dark" role="alert">
+            <div class="alert alert-success text-dark" role="alert">
                 <?php echo $_SESSION["success"];
                 unset($_SESSION["success"]);
                 ?>
@@ -57,7 +57,7 @@ require "functions.php";
             </form>
         </div>
         <div class="blankpage-footer text-center">
-            Нет аккаунта? <a href="page_register.html"><strong>Зарегистрироваться</strong>
+            Нет аккаунта? <a href="page_register.php"><strong>Зарегистрироваться</strong>
         </div>
     </div>
     <video poster="img/backgrounds/clouds.png" id="bgvid" playsinline autoplay muted loop>

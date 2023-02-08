@@ -16,7 +16,7 @@ if(!empty($user)){
 add_user($email, $password);
 
 set_flach_message("success", "Регистрация успешна");
-redirect_to("C:\Program Files\OSPanel\domains\works.loc\pogrujenie\page_login.php");
+redirect_to("page_login.php");
 
 
 

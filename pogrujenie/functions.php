@@ -18,10 +18,6 @@ function get_user_by_email($email) {
 function set_flach_message($name, $message){
     $_SESSION[$name] = $message;
 }
-function redirect_to($path) {
-    header("Location: {$path}");
-    exit;
-}
 function add_user($email, $password) {
     $pdo = new PDO("mysql:host=localhost;dbname=my_project", "root", "");
     $sql = "INSERT INTO users (email, password) VALUES (:email, :password)";
@@ -33,11 +29,57 @@ function add_user($email, $password) {
     ]);
     return $pdo->lastInsertId();
 }
-/**Parameters:
-    string - $email
- *  string - $password
- * Description: авторизовать пользователя
- * Return value: boolean
-**/
-function login($email, $password) {};
+function login($email, $password) {
+    $user = [
+      "id"  =>  1,
+      "email"  =>  "john@example.com",
+      "role"  =>  "admin"
+    ];
+    $_SESSION['user'] = $user;
+}
+
+function is_logged_in() {
+    if (isset($_SESSION['user'])) {
+        return true;
+    }
+    return false;
+}
+
+function is_not_logged_in() {
+    return !is_logged_in();
+}
+
+function redirect_to($path) {
+    header("Location:{$path}");
+    exit;
+}
+
+function get_users() {
+    $pdo = new PDO("mysql:host=localhost;dbname=my_project", "root", "");
+    $statement = $pdo->query("SELECT * FROM users");
+    return $statement->fetchAll(PDO::FETCH_ASSOC);
+}
+
+function get_authenticated_user() {
+    if (is_logged_in()) {
+        return $_SESSION['user'];
+    }
+        return false;
+}
+
+function is_admin($user) {
+    if(is_logged_in()) {
+        if($user["role"] === "admin") {
+            return true;
+        }
+        return false;
+    }
+}
+
+function is_equal($user, $current_user){
+    if($user["id"] === $current_user["id"]) {
+        return true;
+    }
+    return false;
+}
 ?>
