@@ -5,12 +5,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pogrujenie/users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/task_19v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/upload.v2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409769698.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4097783a8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea40977862b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea40985b4f1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea40985b63a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea40985ed4a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409901e09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409901f16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409902029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409968994.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409968a94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409968ca4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409a19653.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409a19783.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409a198bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409a6aae9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409a6ac02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409a6ad03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409aa1965.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409aa1a64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409aa1cad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409ad9e06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409ad9f06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409ada038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b15672.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b15772.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b1584b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b4525e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b4535c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b4543f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b70fbb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b710b7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b711e7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b99f4a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b9a0f0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409b9a22c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409bc332e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409bc3509.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409bc35f2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409bec44e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409bec5bb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409bec6aa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c2638d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c26494.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c26578.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c53813.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c5392c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c53a40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c8034b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c80463.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409c80697.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409ca99b6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409ca9abe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409ca9b9c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409cd4a8e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409cd4b87.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409cd4ce6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409d97d80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409d97e98.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409d9df40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409dc30a0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409dc31a3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409dc32f7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409dee012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409dee11d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea409dee241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41bfa9bcd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41bfa9df1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41bfa9f89.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41d279553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41d279656.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41d27c565.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41ef5dabc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41ef5dc2d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea41ef61b4d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4215d431f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4215d4425.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4215da474.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea423498738.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea423498846.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea42349896b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea425d7cdc7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea425d7ceca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea425d7cfca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4389c3a66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4389c3bc9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4389c3d95.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea438d1755c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea438d17675.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea438d177d1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4390b3e3e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4390b3fad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea4390b40db.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a1508ab.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a1509d0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a150b32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a4980fa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a498236.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a498369.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a644726.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a6448b4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43a644aa9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43b79e609.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43b79e74e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43b79e85a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43c998945.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43c998a74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43c998c94.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43dd65a07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43dd65b1f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20 tasks/uploads/63ea43dd65c0e.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogrujenie/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/pogrujenie/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogrujenie/page_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/pogrujenie/page_login.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogrujenie/register.php" beforeDir="false" afterPath="$PROJECT_DIR$/pogrujenie/register.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pogrujenie/users.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +172,7 @@
       <workItem from="1675673203303" duration="14411000" />
       <workItem from="1675773279527" duration="4482000" />
       <workItem from="1675842181996" duration="14369000" />
+      <workItem from="1676275848105" duration="5612000" />
     </task>
     <servers />
   </component>
@@ -75,7 +184,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
