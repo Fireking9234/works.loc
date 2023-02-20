@@ -1,7 +1,7 @@
 <?php
 $config = include "config.php";
-include "database/QueryBuilder.php";
-include "database/Connection.php";
+include "dataBase/QueryBuilder.php";
+include "dataBase/Connection.php";
 
 //dd($config);
 

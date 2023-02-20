@@ -22,28 +22,38 @@ class QueryBuilder
         $sql = "INSERT INTO {$table} ({$keys}) VALUES ({$tags})";
         $statement = $this->pdo->prepare($sql);
         $statement->execute($data);
-        //dd($statement);
     }
 
     public function getOne($table, $id) {
         $sql = "SELECT * FROM {$table} WHERE id=:id";
-        $statement = $this->pdo->prepare($sql);
+        $statement = $this->pdo->prepare($sql); //ЗАПРОС SELECT
         $statement->execute([
             "id" => $id,
-        ]);
-        $post=$statement->fetchAll(PDO::FETCH_ASSOC)[0];
-        return $post;
+        ]); //ПОЛУЧИТЬ РЕЗУЛЬТАТ
+        return $statement->fetch(PDO::FETCH_ASSOC);
     }
 
-    public function update($title, $data, $id){
-        $keys = implode(',', array_keys($data));
-        $string = "";
-        foreach ($keys as $key);{
-            $string .= $key. "#1" .$key. ",";
+    public function update($table, $data, $id) {
+        $keys = array_keys($data);
+        $string = '';
+        foreach ($keys as $key) {
+            $string .= $key . '=:' . $key . ',';
         }
+        $keys = rtrim($string, ",");
+        $data["id"] = $id;
+        $sql = "UPDATE {$table} SET {$keys} WHERE id=:id";
+        $statement = $this->pdo->prepare($sql);
+        $statement->execute($data);
+        return $statement;
+    }
 
-        $data = rtrin($string, ",");
-        $data['id']=$id;
+    public function delete($table, $id) {
+        $sql = "DELETE FROM {$table} WHERE id=:id";
+        $statement = $this->pdo->prepare($sql);;
+        $statement->execute([
+            "id"=>$id
+        ]);
+        return $statement;
     }
 }
 

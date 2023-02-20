@@ -5,18 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="DEFSD">
-      <change afterPath="$PROJECT_DIR$/thinkingOOP/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkingOOP/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkingOOP/database/Connection.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkingOOP/database/start.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkingOOP/edit.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkingOOP/show.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thinkingOOP/store.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinkingOOP/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinkingOOP/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinkingOOP/fonctions/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinkingOOP/fonctions/homepape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinkingOOP/pablic/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thinkingOOP/update.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thinkingOOP/database/QueryBuilder.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/database/QueryBuilder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thinkingOOP/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkingOOP/database/start.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/database/start.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkingOOP/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thinkingOOP/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thinkingOOP/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/index.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkingOOP/show.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/show.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkingOOP/store.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/store.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,21 +43,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/OSPanel/domains/works.loc/pogrujenie/page_login.php&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Program Files/OSPanel/domains/works.loc/thinkingOOP/pablic",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\OSPanel\domains\works.loc\thinkingOOP\pablic" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Program Files\OSPanel\domains\works.loc\thinkingOOP" />
+      <recent name="C:\Program Files\OSPanel\domains\works.loc\thinkingOOP\pablic" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -74,6 +85,7 @@
       <workItem from="1676376264722" duration="4268000" />
       <workItem from="1676448466827" duration="9540000" />
       <workItem from="1676631122658" duration="7639000" />
+      <workItem from="1676879520196" duration="13858000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
