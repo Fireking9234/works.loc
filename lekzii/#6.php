@@ -17,3 +17,4 @@ if ($D > 0) {
     $x1  = ($b-sqrt($D))/(2*$a);
     echo "<sub>1</sub> =" . $x1 . "<br>";
 }
+function(){};
