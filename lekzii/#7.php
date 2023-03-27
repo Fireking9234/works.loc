@@ -21,4 +21,3 @@ function nedel($b){
     endwhile;
 }
 nedel(1);
-sf
