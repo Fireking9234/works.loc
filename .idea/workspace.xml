@@ -21,6 +21,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -103,7 +108,7 @@
       <workItem from="1678873381488" duration="11714000" />
       <workItem from="1679405623306" duration="137000" />
       <workItem from="1679482464210" duration="7404000" />
-      <workItem from="1679908399470" duration="8086000" />
+      <workItem from="1679908399470" duration="8225000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
@@ -294,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679923261814</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="discriminant error">
+      <created>1679923513036</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1679923513036</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,10 +323,17 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Author.ColumnIdWidth" value="190" />
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="60" />
+                  <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="59" />
                 </map>
               </option>
             </State>
