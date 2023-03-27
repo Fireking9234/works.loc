@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="дискреминант">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="discriminant error" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +24,7 @@
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
-        <option name="accountId" value="7369994a-cd1e-4f84-a1b7-c68a1d92f37d" />
+        <option name="accountId" value="e60b658e-aaf5-45b1-b6ef-03f2b25c23a1" />
         <option name="url" value="https://github.com/qweqerwerqwerweqr/works.loc" />
       </UrlAndAccount>
     </option>
@@ -105,7 +103,7 @@
       <workItem from="1678873381488" duration="11714000" />
       <workItem from="1679405623306" duration="137000" />
       <workItem from="1679482464210" duration="7404000" />
-      <workItem from="1679908399470" duration="7749000" />
+      <workItem from="1679908399470" duration="8086000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
@@ -282,7 +280,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679922399498</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="дискреминант">
+      <created>1679923084542</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1679923084542</updated>
+    </task>
+    <task id="LOCAL-00027" summary="discriminant error">
+      <created>1679923261814</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1679923261814</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -321,6 +333,7 @@
     <MESSAGE value="функции" />
     <MESSAGE value="ЧАСЫ" />
     <MESSAGE value="дискреминант" />
-    <option name="LAST_COMMIT_MESSAGE" value="дискреминант" />
+    <MESSAGE value="discriminant error" />
+    <option name="LAST_COMMIT_MESSAGE" value="discriminant error" />
   </component>
 </project>
