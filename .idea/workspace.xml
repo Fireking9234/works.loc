@@ -4,645 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="DEFSD">
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/app.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/app.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/datagrid/datatables/datatables.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/fa-brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/fa-duotone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/fa-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/fa-regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/fa-solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/bootstrap-datepicker/bootstrap-datepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/cropperjs/cropper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/dropzone/dropzone.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/ion-rangeslider/ion-rangeslider.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/select2/select2.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/formplugins/summernote/summernote.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/json-path-picker/json-path-picker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/fullcalendar/fullcalendar.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/jqvmap/jqvmap.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd41d.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641-4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/lightgallery/lightgallery.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/miscellaneous/reactions/reactions.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/notifications/sweetalert2/sweetalert2.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/notifications/toastr/toastr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/page-invoice.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/page-login-alt.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/skins/skin-master.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/statistics/c3/c3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/statistics/chartist/chartist.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/statistics/chartjs/chartjs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/statistics/dygraph/dygraph.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/theme-demo.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/css/vendors.bundle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/backgrounds/bg-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/backgrounds/bg-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/backgrounds/bg-5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/backgrounds/clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/card-backgrounds/cover-2-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/card-backgrounds/cover-3-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/authors/josh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/authors/jovanni.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/authors/roberto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/authors/sunny.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-admin-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-admin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-h.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-i.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-j.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-k.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/avatars/avatar-m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/debounce-at_begin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/debounce.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/55.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/56.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/57.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/58.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/59.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/gallery/thumb/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/html5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/laravel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/modes/mode-dark-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/modes/mode-dark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/modes/mode-default-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/modes/mode-glass-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/modes/mode-light-lg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/modes/mode-light.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/mvc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/ng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/peace-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/php.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/position-absolute.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/position-fixed.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/position-sticky.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/profile/article-healthyfood.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/rails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/relax-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/s-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/sea-full.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/search/6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/side-panel-demo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/skins/black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/skins/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/skins/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/skins/pink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/throttle-no_trailing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/demo/throttle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/favicon/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/favicon/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/favicon/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/svg/pattern-1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/ng-thumb-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/ng-thumb-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/ng-thumb-4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/ng-thumb-video-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/ng-thumb-video-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/pic-11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/pic-12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/pic-7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/thumbs/pic-8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/video-play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/vimeo-play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/img/youtube-play.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/app.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/datagrid/datatables/datatables.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/datagrid/datatables/datatables.export.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/dependency/moment/moment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/bootstrap-datepicker/bootstrap-datepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/cropperjs/cropper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/dropzone/dropzone.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/inputmask/inputmask.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/ion-rangeslider/ion-rangeslider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/select2/select2.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/formplugins/summernote/summernote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/json-path-picker/json-path-picker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/miscellaneous/fullcalendar/fullcalendar.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/miscellaneous/jqvmap/jqvmap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/miscellaneous/lightgallery/lightgallery.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/notifications/sweetalert2/sweetalert2.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/notifications/toastr/toastr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/c3/c3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/chartist/chartist.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/chartjs/chartjs.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/d3/d3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/demo-data/demo-c3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/demo-data/demo-data-dygraph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/dygraph/dygraph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/easypiechart/easypiechart.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/flot/flot.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/peity/peity.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/statistics/sparkline/sparkline.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/js/vendors.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/task_1.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/vendors.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-brands-400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-brands-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-duotone-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-duotone-900.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-duotone-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-duotone-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-duotone-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-duotone-900d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-light-300.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-light-300.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-light-300.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-light-300.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-light-300.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-light-300d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-regular-400.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-regular-400d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-solid-900.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/fa-solid-900d41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/nextgen-icons.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/nextgen-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/nextgen-iconsd41d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/webfonts/nextgen-icons-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/webfonts/nextgen-icons-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/webfonts/webfonts/nextgen-icons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 2.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 3.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 5.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 6.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 7.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 8.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20 tasks/zadaciPHP/zadaca 9.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanOOP/Config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanOOP/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cleanOOP/index.php" afterDir="false" />
+    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="дискреминант">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/app.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/app.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/datagrid/datatables/datatables.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/fa-brands.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/fa-duotone.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/fa-light.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/fa-regular.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/fa-solid.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/bootstrap-datepicker/bootstrap-datepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/cropperjs/cropper.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/dropzone/dropzone.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/ion-rangeslider/ion-rangeslider.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/select2/select2.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/formplugins/summernote/summernote.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/json-path-picker/json-path-picker.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/fullcalendar/fullcalendar.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/jqvmap/jqvmap.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd41d.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641-4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/lightgallery/fonts/lgd641.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/lightgallery/lightgallery.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/miscellaneous/reactions/reactions.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/notifications/sweetalert2/sweetalert2.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/notifications/toastr/toastr.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/page-invoice.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/page-login-alt.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/skins/skin-master.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/statistics/c3/c3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/statistics/chartist/chartist.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/statistics/chartjs/chartjs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/statistics/dygraph/dygraph.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/theme-demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/css/vendors.bundle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/backgrounds/bg-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/backgrounds/bg-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/backgrounds/bg-5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/backgrounds/clouds.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/card-backgrounds/cover-2-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/card-backgrounds/cover-3-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/authors/josh.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/authors/jovanni.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/authors/roberto.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/authors/sunny.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-admin-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-admin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-b.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-c.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-d.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-g.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-h.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-i.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-j.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-k.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/avatars/avatar-m.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/debounce-at_begin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/debounce.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/58.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/59.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/gallery/thumb/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/html5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/laravel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/modes/mode-dark-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/modes/mode-dark.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/modes/mode-default-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/modes/mode-glass-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/modes/mode-light-lg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/modes/mode-light.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/mvc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/ng.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/peace-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/php.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/position-absolute.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/position-fixed.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/position-sticky.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/profile/article-healthyfood.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/rails.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/relax-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/s-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/sea-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/search/6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/side-panel-demo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/skins/black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/skins/blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/skins/green.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/skins/pink.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/throttle-no_trailing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/demo/throttle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/favicon/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/favicon/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/favicon/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/loading.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/svg/pattern-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/ng-thumb-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/ng-thumb-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/ng-thumb-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/ng-thumb-video-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/ng-thumb-video-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/pic-11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/pic-12.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/pic-7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/thumbs/pic-8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/video-play.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/vimeo-play.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/img/youtube-play.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/app.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/datagrid/datatables/datatables.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/datagrid/datatables/datatables.export.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/dependency/moment/moment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/bootstrap-datepicker/bootstrap-datepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/cropperjs/cropper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/dropzone/dropzone.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/inputmask/inputmask.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/ion-rangeslider/ion-rangeslider.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/select2/select2.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/formplugins/summernote/summernote.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/json-path-picker/json-path-picker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/miscellaneous/fullcalendar/fullcalendar.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/miscellaneous/jqvmap/jqvmap.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/miscellaneous/lightgallery/lightgallery.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/notifications/sweetalert2/sweetalert2.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/notifications/toastr/toastr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/c3/c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/chartist/chartist.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/chartjs/chartjs.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/d3/d3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/demo-data/demo-c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/demo-data/demo-data-dygraph.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/dygraph/dygraph.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/easypiechart/easypiechart.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/flot/flot.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/peity/peity.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/statistics/sparkline/sparkline.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/js/vendors.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/task_1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/vendors.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-brands-400.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-brands-400d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-duotone-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-duotone-900.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-duotone-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-duotone-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-duotone-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-duotone-900d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-light-300.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-light-300.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-light-300.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-light-300.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-light-300.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-light-300d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-regular-400.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-regular-400d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-solid-900.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/fa-solid-900d41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/nextgen-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/nextgen-icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/nextgen-iconsd41d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/webfonts/nextgen-icons-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/webfonts/nextgen-icons-3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/webfonts/webfonts/nextgen-icons.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 10.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 2.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 3.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 6.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 8.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/zadaciPHP/zadaca 9.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -653,6 +16,11 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="https://github.com/Fireking9234/works.loc" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -711,7 +79,15 @@
       <workItem from="1676631122658" duration="7639000" />
       <workItem from="1676879520196" duration="14210000" />
       <workItem from="1677051654856" duration="5002000" />
-      <workItem from="1677492164851" duration="3601000" />
+      <workItem from="1677492164851" duration="4737000" />
+      <workItem from="1677662596618" duration="8860000" />
+      <workItem from="1678690196179" duration="8000" />
+      <workItem from="1678691951818" duration="82000" />
+      <workItem from="1678692069400" duration="16656000" />
+      <workItem from="1678873381488" duration="11714000" />
+      <workItem from="1679405623306" duration="137000" />
+      <workItem from="1679482464210" duration="7404000" />
+      <workItem from="1679908399470" duration="6838000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
@@ -720,7 +96,168 @@
       <option name="project" value="LOCAL" />
       <updated>1676452638454</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DEFSD">
+      <created>1677505417204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677505417204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="DEFSD">
+      <created>1677505589566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677505589566</updated>
+    </task>
+    <task id="LOCAL-00004" summary="DEFSD">
+      <created>1677505638035</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677505638035</updated>
+    </task>
+    <task id="LOCAL-00005" summary="получилось сделать перенос на след строку">
+      <created>1678698700070</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678698700070</updated>
+    </task>
+    <task id="LOCAL-00006" summary="получилось сделать перенос на след строку">
+      <created>1678698891352</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678698891352</updated>
+    </task>
+    <task id="LOCAL-00007" summary="получилось сделать перенос на след строку">
+      <created>1678701577618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678701577618</updated>
+    </task>
+    <task id="LOCAL-00008" summary="возраст">
+      <created>1678711109400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678711109400</updated>
+    </task>
+    <task id="LOCAL-00009" summary="перебор через функцию">
+      <created>1678713319271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678713319271</updated>
+    </task>
+    <task id="LOCAL-00010" summary="перебор через функцию">
+      <created>1678714339987</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678714339988</updated>
+    </task>
+    <task id="LOCAL-00011" summary="дискрим">
+      <created>1678715774338</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1678715774338</updated>
+    </task>
+    <task id="LOCAL-00012" summary="дискрим">
+      <created>1678879659962</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1678879659962</updated>
+    </task>
+    <task id="LOCAL-00013" summary="дискрим">
+      <created>1678883927919</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678883927919</updated>
+    </task>
+    <task id="LOCAL-00014" summary="дискрим">
+      <created>1678887219531</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1678887219531</updated>
+    </task>
+    <task id="LOCAL-00015" summary="дискрим">
+      <created>1678887582667</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1678887582668</updated>
+    </task>
+    <task id="LOCAL-00016" summary="дискрим">
+      <created>1678888525396</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1678888525396</updated>
+    </task>
+    <task id="LOCAL-00017" summary="функции">
+      <created>1679493096025</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1679493096025</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ЧАСЫ">
+      <created>1679915207238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1679915207238</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ЧАСЫ">
+      <created>1679915264206</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1679915264206</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ЧАСЫ">
+      <created>1679915281934</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1679915281934</updated>
+    </task>
+    <task id="LOCAL-00021" summary="дискреминант">
+      <created>1679920664390</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1679920664390</updated>
+    </task>
+    <task id="LOCAL-00022" summary="дискреминант">
+      <created>1679920722077</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1679920722077</updated>
+    </task>
+    <task id="LOCAL-00023" summary="дискреминант">
+      <created>1679920758155</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1679920758155</updated>
+    </task>
+    <task id="LOCAL-00024" summary="дискреминант">
+      <created>1679921471509</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1679921471509</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -752,6 +289,13 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="DEFSD" />
-    <option name="LAST_COMMIT_MESSAGE" value="DEFSD" />
+    <MESSAGE value="получилось сделать перенос на след строку" />
+    <MESSAGE value="возраст" />
+    <MESSAGE value="перебор через функцию" />
+    <MESSAGE value="дискрим" />
+    <MESSAGE value="функции" />
+    <MESSAGE value="ЧАСЫ" />
+    <MESSAGE value="дискреминант" />
+    <option name="LAST_COMMIT_MESSAGE" value="дискреминант" />
   </component>
 </project>
