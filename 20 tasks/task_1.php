@@ -24,6 +24,10 @@
                     <div class="panel-hdr">
                         <h2>
                             Задание
+
+
+
+
                         </h2>
                         <div class="panel-toolbar">
                             <button class="btn btn-panel waves-effect waves-themed" data-action="panel-collapse" data-toggle="tooltip" data-offset="0,10" data-original-title="Collapse"></button>
