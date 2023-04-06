@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div class="wrap">
+    <div class="parent_blook">
+        <div class="blooc">
+            <div class="oirole"></div>
+            <div class="asdd"></div>
+        </div>
+        <div class="blooc">
+            <div class="oirole"></div>
+            <div class="asdd"></div>
+        </div>
+        <div class="blooc">
+            <div class="oirole"></div>
+            <div class="asdd"></div>
+        </div>
+        <button>Скрыть всё</button>
+    </div>
+</div>
+<style>
+.wrap{
+    width: 1980px;
+    border: 1px solid red;
+    margin: 0 auto;
+}
+.parent_blook{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.blooc{
+    position: relative;
+    width: 250px;
+    height: 250px;
+    background: green;
+}
+.oirole{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: red;
+    top: -6px;
+    left: -6px;
+}
+.asdd{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: purple;
+    top: 240px;
+    right: -6px;
+}
+</style>
+<script>
+
+</script>
+</body>
+</html>
