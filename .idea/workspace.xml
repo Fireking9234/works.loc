@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="discriminant error" />
+    <list default="true" id="de71efe7-1afb-4545-9bd7-076d1739225b" name="Changes" comment="discriminant error">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Changes1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +25,13 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -52,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Program Files/OSPanel/domains/works.loc/thinkingOOP/pablic",
+    "last_opened_file_path": "F:/OSPanel/domains/works.loc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,7 +89,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="" />
+      <changelist id="de71efe7-1afb-4545-9bd7-076d1739225b" name="Changes" comment="discriminant error" />
       <created>1675238029550</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -109,6 +115,8 @@
       <workItem from="1679405623306" duration="137000" />
       <workItem from="1679482464210" duration="7404000" />
       <workItem from="1679908399470" duration="8225000" />
+      <workItem from="1683113762612" duration="904000" />
+      <workItem from="1683115140340" duration="1659000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
@@ -306,7 +314,21 @@
       <option name="project" value="LOCAL" />
       <updated>1679923513036</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="discriminant error">
+      <created>1683114377137</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1683114377137</updated>
+    </task>
+    <task id="LOCAL-00030" summary="discriminant error">
+      <created>1683115176724</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1683115176724</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
