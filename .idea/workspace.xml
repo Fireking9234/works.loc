@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="discriminant error" />
+    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="я не знаю как это подписать">
+      <change afterPath="$PROJECT_DIR$/lekzii/#10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lekzii/#9.php" beforeDir="false" afterPath="$PROJECT_DIR$/lekzii/#9.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +18,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -21,11 +34,11 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -46,21 +59,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Program Files/OSPanel/domains/works.loc/thinkingOOP/pablic",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/OSPanel/domains/works.loc&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Program Files\OSPanel\domains\works.loc\thinkingOOP\pablic" />
@@ -108,7 +122,18 @@
       <workItem from="1678873381488" duration="11714000" />
       <workItem from="1679405623306" duration="137000" />
       <workItem from="1679482464210" duration="7404000" />
-      <workItem from="1679908399470" duration="8225000" />
+      <workItem from="1679908399470" duration="9660000" />
+      <workItem from="1680008374598" duration="3250000" />
+      <workItem from="1680087287300" duration="6774000" />
+      <workItem from="1680509183812" duration="2780000" />
+      <workItem from="1680685203837" duration="1070000" />
+      <workItem from="1680686495801" duration="680000" />
+      <workItem from="1680692979494" duration="570000" />
+      <workItem from="1680758729841" duration="13666000" />
+      <workItem from="1681277189208" duration="5364000" />
+      <workItem from="1681378230285" duration="292000" />
+      <workItem from="1681477320441" duration="749000" />
+      <workItem from="1684829048353" duration="510000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
@@ -306,7 +331,35 @@
       <option name="project" value="LOCAL" />
       <updated>1679923513036</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="discriminant error">
+      <created>1679923762667</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1679923762667</updated>
+    </task>
+    <task id="LOCAL-00030" summary="вывод инфы через POST">
+      <created>1680510178135</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1680510178135</updated>
+    </task>
+    <task id="LOCAL-00031" summary="test git commit">
+      <created>1680693022155</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1680693022155</updated>
+    </task>
+    <task id="LOCAL-00032" summary="я не знаю как это подписать">
+      <created>1680789684350</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1680789684350</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,22 +371,22 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
               <option name="COLUMN_ID_WIDTH">
                 <map>
                   <entry key="Table.Default.Author.ColumnIdWidth" value="190" />
                   <entry key="Table.Default.Date.ColumnIdWidth" value="60" />
                   <entry key="Table.Space.CommitStatus.ColumnIdWidth" value="59" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
                 </map>
               </option>
             </State>
@@ -353,6 +406,9 @@
     <MESSAGE value="ЧАСЫ" />
     <MESSAGE value="дискреминант" />
     <MESSAGE value="discriminant error" />
-    <option name="LAST_COMMIT_MESSAGE" value="discriminant error" />
+    <MESSAGE value="вывод инфы через POST" />
+    <MESSAGE value="test git commit" />
+    <MESSAGE value="я не знаю как это подписать" />
+    <option name="LAST_COMMIT_MESSAGE" value="я не знаю как это подписать" />
   </component>
 </project>

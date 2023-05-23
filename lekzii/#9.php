@@ -33,3 +33,5 @@ $myPerson = new Person("misha" , 18);
 
 echo $myPerson->name;
 echo $myPerson->age;
+
+
