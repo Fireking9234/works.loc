@@ -12,7 +12,7 @@
     <div class="conteiner">
         <div class="header">
             <ul class="main">
-                <li class="main" style="text-align: left;">Регистрация-Войти</li>
+                <li class="main" style="text-align: left;"><a href="page_login.php" target="_blank">Регистрация-Войти</a></li>
 
                 <li class="main" style="text-align: right;">Главная</li>
             </ul>
@@ -89,7 +89,7 @@
                 
                 BoardReader — поиск по форумам, сервисам вопросов и ответов и другим сообществам. Специальные настройки помогут быстро найти посты и комментарии, которые соответствуют заданным критериям: языку, дате публикации и названию сайта.</p>
                 <h1>Главные мысли</h1>
-                <p><img  src="./src/img/content/7poiskovaya-sistema-eto (1).png"></p>
+                <p><img src="./src/img/content/7poiskovaya-sistema-eto (1).png"></p>
            </div>
 
         </div>

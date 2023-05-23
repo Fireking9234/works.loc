@@ -5,19 +5,324 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="asd">
-      <change afterPath="$PROJECT_DIR$/proekt2.0/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/jquery-3.6.4.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/1-ps-v-rossii.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/2ps-v-mire.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/3chrome_eopkrtejrf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (1).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (4).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (5).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (6).jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (7).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/ceat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/app.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/datagrid/datatables/datatables.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/fa-brands.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/fa-duotone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/fa-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/fa-regular.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/fa-solid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/bootstrap-datepicker/bootstrap-datepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/cropperjs/cropper.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/dropzone/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/ion-rangeslider/ion-rangeslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/select2/select2.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/formplugins/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/json-path-picker/json-path-picker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/fullcalendar/fullcalendar.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/jqvmap/jqvmap.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/lightgallery/fonts/lgd41d.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/lightgallery/fonts/lgd641-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/lightgallery/fonts/lgd641-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/lightgallery/fonts/lgd641-4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/lightgallery/fonts/lgd641.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/lightgallery/lightgallery.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/miscellaneous/reactions/reactions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/notifications/sweetalert2/sweetalert2.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/notifications/toastr/toastr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/page-invoice.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/page-login-alt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/skins/skin-master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/statistics/c3/c3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/statistics/chartist/chartist.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/statistics/chartjs/chartjs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/statistics/dygraph/dygraph.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/theme-demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/css/vendors.bundle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/backgrounds/bg-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/backgrounds/bg-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/backgrounds/bg-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/backgrounds/clouds.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/card-backgrounds/cover-2-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/card-backgrounds/cover-3-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/authors/josh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/authors/jovanni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/authors/roberto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/authors/sunny.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-admin-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-admin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-d.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-e.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-f.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-g.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-h.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-i.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-j.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-k.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/avatars/avatar-m.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/debounce-at_begin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/debounce.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/gallery/thumb/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/html5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/laravel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/modes/mode-dark-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/modes/mode-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/modes/mode-default-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/modes/mode-glass-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/modes/mode-light-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/modes/mode-light.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/mvc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/ng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/peace-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/position-absolute.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/position-fixed.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/position-sticky.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/profile/article-healthyfood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/rails.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/relax-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/s-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/sea-full.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/search/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/side-panel-demo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/skins/black.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/skins/blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/skins/green.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/skins/pink.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/throttle-no_trailing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/demo/throttle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/favicon/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/svg/pattern-1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/ng-thumb-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/ng-thumb-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/ng-thumb-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/ng-thumb-video-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/ng-thumb-video-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/pic-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/pic-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/pic-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/thumbs/pic-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/video-play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/vimeo-play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/img/youtube-play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/app.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/datagrid/datatables/datatables.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/datagrid/datatables/datatables.export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/dependency/moment/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/bootstrap-colorpicker/bootstrap-colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/bootstrap-datepicker/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/bootstrap-daterangepicker/bootstrap-daterangepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/cropperjs/cropper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/dropzone/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/inputmask/inputmask.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/ion-rangeslider/ion-rangeslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/select2/select2.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/formplugins/summernote/summernote.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/json-path-picker/json-path-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/miscellaneous/fullcalendar/fullcalendar.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/miscellaneous/jqvmap/jqvmap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/miscellaneous/lightgallery/lightgallery.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/notifications/sweetalert2/sweetalert2.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/notifications/toastr/toastr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/c3/c3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/chartist/chartist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/chartjs/chartjs.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/d3/d3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/demo-data/demo-c3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/demo-data/demo-data-dygraph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/dygraph/dygraph.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/easypiechart/easypiechart.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/flot/flot.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/peity/peity.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/statistics/sparkline/sparkline.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/js/vendors.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/media/video/cc.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/media/video/cc.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/page_login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/page_register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-brands-400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-brands-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-duotone-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-duotone-900.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-duotone-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-duotone-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-duotone-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-duotone-900d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-light-300.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-light-300.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-light-300.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-light-300.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-light-300.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-light-300d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-regular-400.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-regular-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-solid-900.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/fa-solid-900d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/nextgen-icons.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/nextgen-icons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/nextgen-iconsd41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/webfonts/nextgen-icons-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/webfonts/nextgen-icons-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/webfonts/webfonts/nextgen-icons.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/praktika1/praktira.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/proekt2.0/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/proekt2.0/css.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/proekt2.0/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proekt2.0/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/proekt2.0/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkingOOP/fonctions/homepape.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/fonctions/homepape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thinkingOOP/index.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/thinkingOOP/index.view.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,24 +372,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/OSPanel/domains/works.loc&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Program Files/OSPanel/domains/works.loc/proekt2.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\OSPanel\domains\works.loc\proekt2.0" />
       <recent name="C:\Program Files\OSPanel\domains\works.loc\thinkingOOP\pablic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -141,7 +447,7 @@
       <workItem from="1681277189208" duration="5364000" />
       <workItem from="1681378230285" duration="292000" />
       <workItem from="1681477320441" duration="749000" />
-      <workItem from="1684829048353" duration="1311000" />
+      <workItem from="1684829048353" duration="9572000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
@@ -374,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684829588655</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="asd">
+      <created>1684830452284</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1684830452284</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
