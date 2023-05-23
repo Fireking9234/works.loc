@@ -12,9 +12,9 @@
     <div class="conteiner">
         <div class="header">
             <ul class="main">
-                <li class="main" style="text-align: left;">Главная</li>
-               
-                <li class="main" style="text-align: right;">Регистрация-Войти</li>
+                <li class="main" style="text-align: left;">Регистрация-Войти</li>
+
+                <li class="main" style="text-align: right;">Главная</li>
             </ul>
         </div>
         <div class="contentS">

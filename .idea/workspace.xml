@@ -4,12 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="я не знаю как это подписать">
-      <change afterPath="$PROJECT_DIR$/lekzii/#10.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/css.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proekt2.0/index.html" afterDir="false" />
+    <list default="true" id="01a2947c-6dd8-4d39-b825-00b3c9775816" name="Changes" comment="asd">
+      <change afterPath="$PROJECT_DIR$/proekt2.0/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/jquery-3.6.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/1-ps-v-rossii.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/2ps-v-mire.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/3chrome_eopkrtejrf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (1).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (4).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (5).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (6).jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proekt2.0/src/img/content/photo1684828576 (7).jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lekzii/#9.php" beforeDir="false" afterPath="$PROJECT_DIR$/lekzii/#9.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proekt2.0/css.css" beforeDir="false" afterPath="$PROJECT_DIR$/proekt2.0/css.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proekt2.0/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +141,7 @@
       <workItem from="1681277189208" duration="5364000" />
       <workItem from="1681378230285" duration="292000" />
       <workItem from="1681477320441" duration="749000" />
-      <workItem from="1684829048353" duration="510000" />
+      <workItem from="1684829048353" duration="1311000" />
     </task>
     <task id="LOCAL-00001" summary="DEFSD">
       <created>1676452638454</created>
@@ -359,7 +367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680789684350</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="asd">
+      <created>1684829588655</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1684829588655</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,6 +424,7 @@
     <MESSAGE value="вывод инфы через POST" />
     <MESSAGE value="test git commit" />
     <MESSAGE value="я не знаю как это подписать" />
-    <option name="LAST_COMMIT_MESSAGE" value="я не знаю как это подписать" />
+    <MESSAGE value="asd" />
+    <option name="LAST_COMMIT_MESSAGE" value="asd" />
   </component>
 </project>
